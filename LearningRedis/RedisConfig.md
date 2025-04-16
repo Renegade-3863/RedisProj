@@ -12,7 +12,7 @@
 #define HAVE_EVENT_FD 1
 #endif
 ```
-- 上面这些🌹定义，如 redis 官方注释所说，是用来访问 linux 自带的 proc 日志信息的
+- 上面这些定义，如 redis 官方注释所说，是用来访问 linux 自带的 proc 日志信息的
 - 列出一些常见的 /proc 文件：
     - /proc/cpuinfo 
         - CPU 信息，包括 CPU 型号、缓存大小、频率等
