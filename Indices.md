@@ -1,1 +1,1 @@
-[大小端序](../LearningRedis/RedisConfig.md) "另一个想讲的点：大小端序"
+[大小端序](./LearningRedis/RedisConfig.md) "另一个想讲的点：大小端序"
