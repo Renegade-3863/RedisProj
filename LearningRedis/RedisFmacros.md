@@ -55,3 +55,4 @@ char* strcat(char* restrict dest, const char* restrict src) __attribute__((depre
 
 
 ### 编写文档时使用：回到 [RedisServer.md](./RedisServer.md)
+### 编写文档是使用：回到 [RedisMonotonic.md](./RedisMonotonic.md)

@@ -5,8 +5,8 @@
 ### 前置 redis 自定义库：
 - [fmacros.h](./RedisFmacros.md)
 - [config.h](./RedisConfig.md)
-- solarisfixes.h
-- rio.h
+- [solarisfixes.h](./RedisSolarisfixes.md)
+- [rio.h](./RedisRio.md)
 - atomicvar.h
 - commands.h
 #### 有关上述几个自定义库的学习，参见对应的 markdown 文档
