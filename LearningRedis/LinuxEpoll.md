@@ -470,5 +470,5 @@ static __always_inline struct rb_node* rb_next_match(const void* key, struct rb_
 - 首先来看一个 "如果学过二叉搜索树，一定应该会" 的知识点
     - 旋转操作
         - 我们结合一张图来研究一下
-        
-![a picture](../Fig/rbtree/Rotate.png)
+
+![a picture](../Fig/rbtree/RotateDes.png)
