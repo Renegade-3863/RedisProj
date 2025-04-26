@@ -120,6 +120,11 @@ typedef struct aeEventLoop
 #### 是上面 ae.h 文件的具体实现
 ### 前置库：
 - [anet.h](./RedisAnet.md)
+- Redis 提供了四种可行的 I/O 多路复用机制，下面逐一进行分析
+    - [ae_evport.c](./RedisAeEvport.md)
+    - [ae_epoll.c](./RedisAeEpoll.md)
+    - [ae_kqueue.c](./RedisAeKqueue.md)
+    - [ae_select.c](./RedisAeSelect.md)
 
 -- -
 ### 编写文档时使用：回到 [RedisConnection.md](./RedisConnection.md)
